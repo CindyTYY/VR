@@ -29,3 +29,14 @@ Today we are going to use HTC Vive in Gaze. https://www.vive.com/us/product/
 HTC Vive is a high end virtual reality headset developed by HTC and Valve Corporation, released on 5 April 2016. The headset is designed to utilize "room scale" technology to turn a room into 3D space via sensors, with the virtual world allowing the user to navigate naturally, with the ability to walk around and use motion tracked handheld controllers to vividly manipulate objects, interact with precision, communicate and experience immersive environments.
 
 ![](http://www.hawthorn.biz/sites/default/files/blog/VR%20-%20Hawthorn%20premieres%20virtual%20venue%20experience%20at%20EPS.jpg)
+
+
+images are from:
+
+https://tctechcrunch2011.files.wordpress.com/2016/01/vrapple.jpg
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Linux_kernel_and_gaming_input-output_latency.svg/1920px-Linux_kernel_and_gaming_input-output_latency.svg.png
+
+https://cdn.uploadvr.com/wp-content/uploads/2016/11/earthvr_manhattan.png
+
+http://www.hawthorn.biz/sites/default/files/blog/VR%20-%20Hawthorn%20premieres%20virtual%20venue%20experience%20at%20EPS.jpg
