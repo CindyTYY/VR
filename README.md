@@ -1,6 +1,6 @@
 # VR: Welcom to a brand new world 
 
-## Breief Introduction of this Website
+## 1. What is VR
 ![](https://tctechcrunch2011.files.wordpress.com/2016/01/vrapple.jpg)
 
 **Virtual reality (VR)** is a computer technology that use headsets, sometimes in combination with physical spaces or multi-projected environments, to generate realistic images, sounds and other sensations that simulates a user's physical presence in a virtual or imaginary environment. A person using virtual reality equipment is able to "look around" the **artificial world**, and with high quality VR move about in it and interact with virtual features or items. VR headsets are head-mounted goggles with a screen in front of the eyes. Programs may include audio and sounds through speakers or headphones.
@@ -10,7 +10,14 @@ VR systems that include transmission of vibrations and other sensations to the u
 Paramount for the sensation of immersion into virtual reality are a high frame rate (at least 95 fps), as well as a low latency. Furthermore, a pixel persistence lower than 3 ms is required, because if not, users will feel sick when moving their head around.
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Linux_kernel_and_gaming_input-output_latency.svg/1920px-Linux_kernel_and_gaming_input-output_latency.svg.png)
 
-## HTC Vive
+## 2. Google Earth VR Edition
+![](https://cdn.uploadvr.com/wp-content/uploads/2016/11/earthvr_manhattan.png)
+
+https://vr.google.com/earth/
+ 
+ Also, you can see embeded 360 photo in this website. VR would be a cool way to show 360 photos and videos.
+
+## 3. HTC Vive
 
 Today we are going to use HTC Vive in Gaze.
 
