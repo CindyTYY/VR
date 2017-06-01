@@ -1,4 +1,4 @@
-# VR: Welcom to a brand new world 
+# VR: welcom to a brand new world 
 
 ## 1. What is VR
 
