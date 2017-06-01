@@ -34,9 +34,6 @@ HTC Vive is a high end virtual reality headset developed by HTC and Valve Corpor
 images are from:
 
 https://tctechcrunch2011.files.wordpress.com/2016/01/vrapple.jpg
-
 https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Linux_kernel_and_gaming_input-output_latency.svg/1920px-Linux_kernel_and_gaming_input-output_latency.svg.png
-
 https://cdn.uploadvr.com/wp-content/uploads/2016/11/earthvr_manhattan.png
-
 http://www.hawthorn.biz/sites/default/files/blog/VR%20-%20Hawthorn%20premieres%20virtual%20venue%20experience%20at%20EPS.jpg
